@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LIBRARIAN</string>
+    <string name="hint">Enter book name...</string>
+    <string name="editButton">Edit Book Button</string>
+    <string name="deleteButton">Delete Book Button</string>
+    <string name="bookDetailsLabel">Book Details</string>
+    <string name="EditBook">Edit Book</string>
+    <string name="NameRequired">Name is required</string>
+    <string name="cancel">CANCEL</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="Nobook">No books yet, add one</string>
+    <string name="AddNew">Add New Book</string>
+    <string name="AddBook">ADD BOOK</string>
+    <string name="search">Search</string>
+    <string name="Null">Null</string>
+    <string name="publisher">Publisher</string>
+    <string name="number_of_pages">Number Of Pages</string>
+    <string name="author_name">Author Name</string>
+    <string name="category">Category</string>
+    <string name="bookshelf">BookShelf</string>
+    <string name="price">Price</string>
+    <string name="overview">Overview</string>
+    <string name="book_name">Book Name</string>
+    <string name="release_date">Release Date</string>
+    <string name="pleaseWait">Please Wait</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="books">Books</string>
+
+
+</resources>
